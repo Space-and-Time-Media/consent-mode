@@ -1,0 +1,9 @@
+homepage: "https://spaceandtime.co.uk/"
+documentation: "https://spaceandtime.co.uk/"
+versions:
+  # Latest version
+  - sha: e61efa3acdac4759021f3f4f7e8a784309f4a107
+    changeNotes: Test of first commit
+  # Older versions
+  - sha: 4be4eeec919455c4a606435ba44657a639efaea6
+    changeNotes: Initial release
