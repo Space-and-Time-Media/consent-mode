@@ -1,9 +1,13 @@
 homepage: "https://spaceandtime.co.uk/"
 documentation: "https://spaceandtime.co.uk/"
 versions:
-  # Latest version
+  - sha: 8c0811fa31407179c8f94d729807433a9fcc776e
+    changeNotes: Rename template2.tpl to template.tpl
+  - sha: d955d1eb9e25ae396931bae8968404e94d2ba329
+    changeNotes: Rename template.tpl to template2.tpl
+  - sha: 10f97a22f3f1280ae730903997074df2fc76f3d7
+    changeNotes: Add content to files
   - sha: e61efa3acdac4759021f3f4f7e8a784309f4a107
     changeNotes: Test of first commit
-  # Older versions
   - sha: 4be4eeec919455c4a606435ba44657a639efaea6
     changeNotes: Initial release
